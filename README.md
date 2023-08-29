@@ -7,10 +7,10 @@
 
 
 ## Encoder
-![alt]()
+![alt](https://github.com/AsaadAreeb/TranslatorBot/blob/main/encoder.png)
 
 ## Bahdanau attention decoder network
-![alt]()
+![alt](https://github.com/AsaadAreeb/TranslatorBot/blob/main/bahdanau_attention-decoder-network.png)
 
 ## Seq2Seq Attention
-![alt]()
+![alt](https://github.com/AsaadAreeb/TranslatorBot/blob/main/seq2seq_attn.png)
